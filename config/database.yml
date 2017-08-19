@@ -10,9 +10,9 @@
 development:
   adapter: postgresql
   encoding: unicode
-  database: movers_development
+  database: AKKI
   pool: 5
-  username: rajatverma
+  username: AKKI
   password:
  
   # Connect on a TCP socket. Omitted by default since the client uses a
@@ -39,7 +39,7 @@ development:
 test:
   adapter: postgresql
   encoding: unicode
-  database: movers_test
+  database: AKKI
   pool: 5
-  username: rajatverma
+  username: AKKI
   password:
