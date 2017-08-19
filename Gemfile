@@ -31,7 +31,7 @@ gem 'jbuilder', '~> 2.5'
 # Frontend template gem
 gem 'frontend-generators'
 
-gem "font-awesome-rails"
+gem "font-awesome-sass"
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 3.0'
 # Use ActiveModel has_secure_password
